@@ -42,8 +42,8 @@ android {
         applicationId "ifeanyi.checklist.android"
         minSdkVersion flutter.minSdkVersion
         targetSdkVersion flutter.targetSdkVersion
-        versionCode 4
-        versionName "1.0.1"
+        versionCode 9
+        versionName "1.0.5"
     }
 
     signingConfigs {
